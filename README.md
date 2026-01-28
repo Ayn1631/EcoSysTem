@@ -1,4 +1,4 @@
-# 生态系统模拟器
+# 生态系统模拟器 (EcoSysTem)
 
 这是一个基于Python的生态系统模拟器，实现了生物的遗传、对抗和学习功能。
 
@@ -106,4 +106,4 @@ ecosystem/
 
 ## 许可证
 
-MIT License 
+MIT License
